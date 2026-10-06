@@ -1,0 +1,23 @@
+{
+  "name": "hexloom-ce-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Track continuing education credits toward a license renewal.",
+  "main": "main.js",
+  "scripts": {
+    "build": "node esbuild.config.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test \"test/*.test.mjs\""
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "esbuild": "^0.28.2",
+    "obsidian": "^1.13.1",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@noble/ed25519": "^3.2.0"
+  }
+}
