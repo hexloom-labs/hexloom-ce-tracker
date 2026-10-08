@@ -1,9 +1,9 @@
 {
   "id": "hexloom-ce-tracker",
   "name": "CE Credit Tracker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minAppVersion": "1.7.2",
-  "description": "Track continuing education credits such as CPE, CLE and PDH toward a license renewal, with a progress dashboard and an audit export.",
+  "description": "Continuing education tracker for CE credits, CPD, CME, CPE, CLE and PDH hours toward a license renewal, with a progress dashboard and audit export.",
   "author": "Hexloom Labs",
   "authorUrl": "https://hexloomlabs.com/obsidian-ce/",
   "isDesktopOnly": false
