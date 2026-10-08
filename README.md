@@ -1,6 +1,6 @@
 # CE Credit Tracker
 
-Track continuing education credits toward a license renewal, inside your vault. It works for any recurring credit cycle: CE hours, CPE, CLE, PDH and similar.
+Continuing education tracker for CE credits, CPD, CME, CPE, CLE and PDH hours toward a license renewal, inside your vault. It works for any recurring credit cycle: CE hours, CPE, CLE, PDH and similar.
 
 You tell it what you need to earn and by when. You log each credit as an ordinary note. A dashboard shows hours earned, hours left, days left and any category minimums you have not met yet, and one command exports an audit-ready CSV or Markdown file.
 
